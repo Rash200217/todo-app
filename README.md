@@ -38,7 +38,7 @@ It features a stunning **Glassmorphism UI**, role-based access control (Admin/Us
 - MySQL Database
 
 ### 1. Backend Setup (Laravel)
-
+***First you need to create a database named "todo_db" in phpmyadmin.***
 ```bash
 cd backend
 
